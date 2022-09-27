@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<font size="2"><b>CV</b></font>"
+title: "<b>CV</b>"
 permalink: /cv/
 author_profile: true
 redirect_from:
