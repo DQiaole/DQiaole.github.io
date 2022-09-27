@@ -4,10 +4,10 @@ title: "<ul><li>
 <b>Incremental transformer structure enhanced image inpainting with masking positional encoding.</b> CVPR 2022. (* indicates co-first authour)</li></ul>"
 collection: publications
 permalink: /publication/CVPR2022_ZITS
-excerpt: '<ul>
+excerpt: '
   [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/CVPR2022_ZITS)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Incremental_Transformer_Structure_Enhanced_Image_Inpainting_With_Masking_Positional_Encoding_CVPR_2022_paper.pdf)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Code</span>](https://github.com/DQiaole/ZITS_inpainting) </ul>
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Paper</span>](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Incremental_Transformer_Structure_Enhanced_Image_Inpainting_With_Masking_Positional_Encoding_CVPR_2022_paper.pdf)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Code</span>](https://github.com/DQiaole/ZITS_inpainting)
 '
 ---
 
@@ -30,5 +30,5 @@ Furthermore, a masking positional encoding strategy is utilized to improve the p
 Extensive experiments on various datasets validate the efficacy of our model compared with other competitors.
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Incremental_Transformer_Structure_Enhanced_Image_Inpainting_With_Masking_Positional_Encoding_CVPR_2022_paper.pdf)
+[<span class="underline-on-hover" style="color:#FF6F6F">Paper</span>](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Incremental_Transformer_Structure_Enhanced_Image_Inpainting_With_Masking_Positional_Encoding_CVPR_2022_paper.pdf)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Code</span>](https://github.com/DQiaole/ZITS_inpainting)

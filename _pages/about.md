@@ -16,4 +16,4 @@ My research interests include computer vision algorithms, especially image inpai
 Education
 ======
 * Bachelor of Data Science, Fudan University, 2018.9 - 2022.6.
-* Ph.D in Statistics(Machine Learning track), Fudan University, 2022 - Present.
+* Ph.D in Statistics (Machine Learning track), Fudan University, 2022 - Present.

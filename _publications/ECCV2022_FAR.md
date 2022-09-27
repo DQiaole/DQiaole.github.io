@@ -4,10 +4,10 @@ Chenjie Cao<sup><a>*</a></sup>, <u>Qiaole Dong<sup><a>*</a></sup></u>, and Yanwe
 <b>Learning Prior Feature and Attention Enhanced Image Inpainting.</b> ECCV 2022. (* indicates co-first authour)</li></ul>"
 collection: publications
 permalink: /publication/ECCV2022_FAR
-excerpt: '<ul>
+excerpt: '
   [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/ECCV2022_FAR)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://arxiv.org/pdf/2208.01837.pdf)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Code</span>](https://github.com/ewrfcas/MAE-FAR) </ul>
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Paper</span>](https://arxiv.org/pdf/2208.01837.pdf)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Code</span>](https://github.com/ewrfcas/MAE-FAR)
 '
 ---
 
@@ -27,5 +27,5 @@ Sufficient ablations have been discussed about the inpainting and the self-super
 Besides, experiments on both Places2 and FFHQ demonstrate the effectiveness of our proposed model.
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://arxiv.org/pdf/2208.01837.pdf)
+[<span class="underline-on-hover" style="color:#FF6F6F">Paper</span>](https://arxiv.org/pdf/2208.01837.pdf)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Code</span>](https://github.com/ewrfcas/MAE-FAR)
