@@ -1,7 +1,7 @@
 ---
 title: "<ul><li>
 <u>Qiaole Dong<sup><a>*</a></sup></u>, Chenjie Cao<sup><a>*</a></sup>, and Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>. 
-<b>Incremental transformer structure enhanced image inpainting with masking positional encoding.</b> CVPR 2022. (* indicates co-first authour)</ul></ul>"
+<b>Incremental transformer structure enhanced image inpainting with masking positional encoding.</b> CVPR 2022. (* indicates co-first authour)</li></ul>"
 collection: publications
 permalink: /publication/CVPR2022_ZITS
 excerpt: '
