@@ -1,20 +1,65 @@
 ---
 layout: archive
-title: "CV"
+title: "<font size="2"><b>CV</b></font>"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<div id="adobe-dc-view" style="height: 1000px; width: 1000px; max-width:100vw"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
-<script type="text/javascript">
-	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "00e8dfd81d9d4116ae43565b4f26e6aa", divId: "adobe-dc-view"});
-		adobeDCView.previewFile({
-			content:{location: {url: "http://dgkontopoulos.io/cv_Kontopoulos_DG.pdf"}},
-			metaData:{fileName: "cv_Kontopoulos_DG.pdf"}
-		}, {embedMode: "SIZED_CONTAINER"});
-	});
-</script>
+{% include base_path %}
+
+Education
+======
+* Bachelor of Data Science, Fudan University, 2018.9 - 2022.6.
+* Ph.D in Statistics(Machine Learning track), Fudan University, 2022 - Present.
+
+[//]: # (Work experience)
+
+[//]: # (======)
+
+[//]: # (* Summer 2015: Research Assistant)
+
+[//]: # (  * Github University)
+
+[//]: # (  * Duties included: Tagging issues)
+
+[//]: # (  * Supervisor: Professor Git)
+  
+[//]: # (Skills)
+
+[//]: # (======)
+
+[//]: # (* Skill 1)
+
+[//]: # (* Skill 2)
+
+[//]: # (  * Sub-skill 2.1)
+
+[//]: # (  * Sub-skill 2.2)
+
+[//]: # (  * Sub-skill 2.3)
+
+[//]: # (* Skill 3)
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+[//]: # (Teaching)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.teaching %})
+
+[//]: # (    {% include archive-single-cv.html %})
+
+[//]: # (  {% endfor %}</ul>)
