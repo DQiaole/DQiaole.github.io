@@ -13,8 +13,8 @@ redirect_from:
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "00e8dfd81d9d4116ae43565b4f26e6aa", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "http://dgkontopoulos.io/cv_Kontopoulos_DG.pdf"}},
-			metaData:{fileName: "cv_Kontopoulos_DG.pdf"}
+			content:{location: {url: "http://dqiaole.io/cv_qiaoledong.pdf"}},
+			metaData:{fileName: "cv_qiaoledong.pdf"}
 		}, {embedMode: "SIZED_CONTAINER"});
 	});
 </script>
