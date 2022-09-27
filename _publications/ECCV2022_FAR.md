@@ -1,7 +1,7 @@
 ---
-title: "<b>+</b> 
+title: "<ul><li>
 Chenjie Cao<sup><a>*</a></sup>, <u>Qiaole Dong<sup><a>*</a></sup></u>, and Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>. 
-**Learning Prior Feature and Attention Enhanced Image Inpainting.** ECCV 2022. (* indicates co-first authour)"
+**Learning Prior Feature and Attention Enhanced Image Inpainting.** ECCV 2022. (* indicates co-first authour)</ul></li>"
 collection: publications
 permalink: /publication/2_ECCV2022_FAR
 excerpt: '
