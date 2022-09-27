@@ -1,5 +1,5 @@
 ---
-title: "<ul><li>Yanwei Fu, Shenghua Gao, Chenjie Cao and <u>Qiaole Dong</u>. <b>The Priors Guided Image Editing and Synthesis.</b></li></ul>"
+title: "Yanwei Fu, Shenghua Gao, Chenjie Cao and <u>Qiaole Dong</u>. <b>The Priors Guided Image Editing and Synthesis.</b>"
 collection: talks
 type: "Tutorial"
 venue: "ACCV2022"
