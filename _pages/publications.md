@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<center>
-	<a title="Word cloud of abstracts from all papers listed below."><img src="../images/publications/wordcloud.png" width="33.5%" height="33.5%"></a>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a title="Network of semantically related terms from paper abstracts."><img src="../images/publications/word_network.png" width="33.5%" height="33.5%"></a>
-</center>
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
