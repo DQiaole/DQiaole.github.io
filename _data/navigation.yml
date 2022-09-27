@@ -1,22 +1,11 @@
 # main links links
 main:
-  - title: "Research interests"
-    url: /research-interests/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Conferences"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Awards"
-    url: /awards/
-        
-  - title: "News"
-    url: /news/
+  - title: "Talks"
+    url: /talks/
     
   - title: "CV"
     url: /cv/
