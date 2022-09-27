@@ -11,10 +11,10 @@ redirect_from:
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "00e8dfd81d9d4116ae43565b4f26e6aa", divId: "adobe-dc-view"});
+		var adobeDCView = new AdobeDC.View({clientId: "6eeea004ae214c7dbed782ffe66ea6b8", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "http://dgkontopoulos.io/cv_Kontopoulos_DG.pdf"}},
-			metaData:{fileName: "cv_Kontopoulos_DG.pdf"}
+			content:{location: {url: "http://dqiaole.github.io/cv_qiaoledong.pdf"}},
+			metaData:{fileName: "cv_qiaoledong.pdf"}
 		}, {embedMode: "SIZED_CONTAINER"});
 	});
 </script>
