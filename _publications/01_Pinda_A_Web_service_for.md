@@ -14,7 +14,7 @@ excerpt: '
 '
 ---
 
-<br><center><img src="../images/publications/pindalogo.png"></center>
+<br><center><img src="../images/publications/pindalogo.png"></center> 
 
 ### Abstract:
 
