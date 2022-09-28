@@ -4,7 +4,7 @@ collection: talks
 type: "Tutorial"
 venue: "ACCV2022"
 date: 2022-12-05
-location: "Macau SAR, China"
+location: "Macau"
 excerpt: '
   [<span class="underline-on-hover" style="color:#FF6F6F">Website</span>](https://accv2022.org/en/TUTORIALS.html)
 '

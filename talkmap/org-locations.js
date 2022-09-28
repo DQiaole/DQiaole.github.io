@@ -1,7 +1,7 @@
 var addressPoints = [
   [
-    "Macau SAR, China",
-    22.318781,
-    113.9488778
+    "Macau",
+    22.1899448,
+    113.5380454
   ]
 ];
