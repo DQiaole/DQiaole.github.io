@@ -20,5 +20,5 @@ Education
 
 Reviewer
 ======
-* Conference: Computer Vision and Pattern Recognition Conference (CVPR) 2023
+* Conference: Conference on Computer Vision and Pattern Recognition (CVPR) 2023
 * Journal: IEEE Transactions on Multimedia
