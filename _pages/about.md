@@ -11,14 +11,14 @@ redirect_from:
 About me
 ======
 I am currently a first-year Ph.D. student under the supervision of [Prof. Yanwei Fu](https://yanweifu.github.io/). 
-My research interests include computer vision algorithms, especially image inpainting.
+My research interests focus on computer vision, e.g., image inpainting, optical flow.
 
 Education
 ======
-* Bachelor of Data Science, Fudan University, 2018.9 - 2022.6.
 * Ph.D in Statistics (Machine Learning track), Fudan University, 2022 - Present.
+* Bachelor of Data Science, Fudan University, 2018.9 - 2022.6.
 
 Reviewer
 ======
-* Conference: Conference on Computer Vision and Pattern Recognition (CVPR) 2023
+* Conference: CVPR 2023
 * Journal: IEEE Transactions on Image Processing, IEEE Transactions on Multimedia
