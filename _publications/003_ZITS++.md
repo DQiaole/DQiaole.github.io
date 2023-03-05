@@ -1,7 +1,7 @@
 ---
 title: "
-Chenjie Cao<a>*</a>, <u>Qiaole Dong<a>*</a></u>, and Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>. 
-<b>ZITS++: Image Inpainting by Improving the Incremental Transformer on Structural Priors.</b> Preprint, 2022. (<a>*</a> indicates co-first authour)"
+Chenjie Cao<a>*</a>, <b>Qiaole Dong<a>*</a></b>, and Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>. 
+<b>ZITS++: Image Inpainting by Improving the Incremental Transformer on Structural Priors.</b> Preprint, 2022."
 collection: publications
 permalink: /publication/ZITS++
 excerpt: '
