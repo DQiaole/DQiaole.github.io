@@ -4,6 +4,8 @@ title: "
 <b>Rethinking Optical Flow from Geometric Matching Consistent Perspective.</b> CVPR 2023."
 collection: publications
 excerpt: '
-[<span class="underline-on-hover" style="color:#FF6F6F">Code</span>](https://github.com/DQiaole/MatchFlow)
+[<span class="underline-on-hover" style="color:#FF6F6F">Project</span>](https://dqiaole.github.io/MatchFlow/)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Paper</span>](https://arxiv.org/abs/2303.08384)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Code</span>](https://github.com/DQiaole/MatchFlow)
 '
 ---
