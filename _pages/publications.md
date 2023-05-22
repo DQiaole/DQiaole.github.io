@@ -7,8 +7,12 @@ author_profile: true
 
 <a>*</a> indicates co-first authour
 
+Chenjie Cao, <b>Qiaole Dong</b>, Yikai Wang, Yunuo Cai, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>. 
+<b>A Unified Prompt-Guided In-Context Inpainting Framework for Reference-based Image Manipulations.</b> Preprint, 2023. [<span class="underline-on-hover" style="color:#87CEFA">Paper</span>](https://arxiv.org/abs/2305.11577) 
+
 Chenjie Cao<a>*</a>, <b>Qiaole Dong<a>*</a></b>, and Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>. 
-<b>ZITS++: Image Inpainting by Improving the Incremental Transformer on Structural Priors.</b> Preprint, 2022. [<span class="underline-on-hover" style="color:#87CEFA">Paper</span>](https://arxiv.org/abs/2210.05950)
+<b>ZITS++: Image Inpainting by Improving the Incremental Transformer on Structural Priors.</b> IEEE TPAMI accepted, 2023. [<span class="underline-on-hover" style="color:#87CEFA">Paper</span>](https://arxiv.org/abs/2210.05950) 
+\| [<span class="underline-on-hover" style="color:#87CEFA">Code</span>](https://github.com/ewrfcas/ZITS-PlusPlus)
 
 <b>Qiaole Dong<a>*</a></b>, Chenjie Cao<a>*</a>, and Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>. 
 <b>Rethinking Optical Flow from Geometric Matching Consistent Perspective.</b> CVPR 2023. [<span class="underline-on-hover" style="color:#87CEFA">Project</span>](https://dqiaole.github.io/MatchFlow/)
