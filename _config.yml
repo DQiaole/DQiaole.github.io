@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. candidate of Statistics<br>School of Data Science<br>Fudan University"
   location         : "ShangHai"
   employer         :
-  pubmed           :
+  pubmed           : "https://dblp.uni-trier.de/pid/315/0341.html"
   googlescholar    : "https://scholar.google.com/citations?user=8Q9k5NoAAAAJ&hl=zh-CN"
   email            : "qldong18@fudan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
