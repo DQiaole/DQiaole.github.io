@@ -8,7 +8,8 @@ author_profile: true
 <a>*</a> indicates co-first authour
 
 - Chenjie Cao<a>*</a>, <b>Qiaole Dong<a>*</a></b>, and Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>. 
-<b>ZITS++: Image Inpainting by Improving the Incremental Transformer on Structural Priors.</b> IEEE TPAMI accepted, 2023. [<span class="underline-on-hover" style="color:#87CEFA">Paper</span>](https://arxiv.org/abs/2210.05950) 
+<b>ZITS++: Image Inpainting by Improving the Incremental Transformer on Structural Priors.</b> IEEE TPAMI accepted, 2023. [<span class="underline-on-hover" style="color:#87CEFA">Project</span>](https://ewrfcas.github.io/ZITS-PlusPlus/)
+\| [<span class="underline-on-hover" style="color:#87CEFA">Paper</span>](https://arxiv.org/abs/2210.05950) 
 \| [<span class="underline-on-hover" style="color:#87CEFA">Code</span>](https://github.com/ewrfcas/ZITS-PlusPlus)
 
 - <b>Qiaole Dong<a>*</a></b>, Chenjie Cao<a>*</a>, and Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>. 
