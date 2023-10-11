@@ -21,4 +21,4 @@ Education
 Reviewer
 ======
 * Conference: ICCV 2023, CVPR 2023
-* Journal: IEEE Transactions on Image Processing, IEEE Transactions on Multimedia
+* Journal: IEEE TCSVT, IEEE TIP, IEEE TMM

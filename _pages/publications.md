@@ -32,5 +32,6 @@ Xiuzhong Yao<sup><a title='Corresponding author'>✉</a></sup>, and Yanwei Fu<su
 \| [<span class="underline-on-hover" style="color:#87CEFA">Code</span>](https://github.com/DQiaole/ZITS_inpainting)
 
 # Preprints
-- Chenjie Cao, <b>Qiaole Dong</b>, Yikai Wang, Yunuo Cai, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>. 
-<b>A Unified Prompt-Guided In-Context Inpainting Framework for Reference-based Image Manipulations.</b> Preprint, 2023. [<span class="underline-on-hover" style="color:#87CEFA">Paper</span>](https://arxiv.org/abs/2305.11577)
+- Chenjie Cao, Yunuo Cai, <b>Qiaole Dong</b>, Yikai Wang, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>. 
+<b>Harnessing Text-to-Image Attention Prior for Reference-based Multi-view Image Synthesis.</b> Preprint, 2023. [<span class="underline-on-hover" style="color:#87CEFA">Project</span>](https://ewrfcas.github.io/ARCI/)
+\| [<span class="underline-on-hover" style="color:#87CEFA">Paper</span>](https://arxiv.org/abs/2305.11577) \| [<span class="underline-on-hover" style="color:#87CEFA">Code</span>](https://github.com/ewrfcas/ARCI)
