@@ -33,6 +33,10 @@ Xiuzhong Yao<sup><a title='Corresponding author'>✉</a></sup>, and Yanwei Fu<su
 \| [<span class="underline-on-hover" style="color:#87CEFA">Code</span>](https://github.com/DQiaole/ZITS_inpainting)
 
 # Preprints
+- <b>Qiaole Dong</b>, Bo Zhao, Yanwei Fu. 
+<b>Open-DDVM: A Reproduction and Extension of Diffusion Model for Optical Flow Estimation.</b> Preprint, 2023.
+[<span class="underline-on-hover" style="color:#87CEFA">Paper</span>](https://arxiv.org/abs/2312.01746) \| [<span class="underline-on-hover" style="color:#87CEFA">Code</span>](https://github.com/DQiaole/FlowDiffusion_pytorch)
+
 - Chenjie Cao, Yunuo Cai, <b>Qiaole Dong</b>, Yikai Wang, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>. 
 <b>Harnessing Text-to-Image Attention Prior for Reference-based Multi-view Image Synthesis.</b> Preprint, 2023. [<span class="underline-on-hover" style="color:#87CEFA">Project</span>](https://ewrfcas.github.io/ARCI/)
 \| [<span class="underline-on-hover" style="color:#87CEFA">Paper</span>](https://arxiv.org/abs/2305.11577) \| [<span class="underline-on-hover" style="color:#87CEFA">Code</span>](https://github.com/ewrfcas/ARCI)
