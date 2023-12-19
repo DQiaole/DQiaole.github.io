@@ -6,13 +6,9 @@ author_profile: true
 ---
 
 <style>
-        a {
-            color: inherit;
-        }
-
-        .blue-text {
-            color: #00c4ff;
-        }
+        a.blue-text {
+        color: #00c4ff;
+    }
 </style>
 
 <a>*</a> indicates co-first authour
