@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+        a {
+            color: black;
+        }
+
+        .blue-text {
+            color: blue;
+        }
+</style>
+
 <a>*</a> indicates co-first authour
 
 <ul>
@@ -12,7 +22,7 @@ author_profile: true
 <p><b>ZITS++: Image Inpainting by Improving the Incremental Transformer on Structural Priors</b>
 <br />Chenjie Cao<a>*</a>, <strong>Qiaole Dong</strong><a>*</a>, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
 <br /> IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2023. <br /> 
-<a href="https://arxiv.org/abs/2210.05950">Paper</a> |
+<a href="https://arxiv.org/abs/2210.05950" class="blue-text">Paper</a> |
 <a href="https://github.com/ewrfcas/ZITS-PlusPlus">Code</a> |
 <a href="https://ewrfcas.github.io/ZITS-PlusPlus/">Project</a>
 </p>
