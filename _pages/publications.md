@@ -7,11 +7,11 @@ author_profile: true
 
 <style>
         a {
-            color: black;
+            color: inherit;
         }
 
         .blue-text {
-            color: blue;
+            color: #00c4ff;
         }
 </style>
 
