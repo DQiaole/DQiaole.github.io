@@ -14,6 +14,26 @@ author_profile: true
 <a>*</a> indicates co-first authour
 
 <ul>
+
+<li>
+<p><b>MemFlow: Optical Flow Estimation and Prediction with Memory</b>
+<br /><strong>Qiaole Dong</strong>, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
+<br /> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024. <br />
+<a href="https://github.com/DQiaole/MemFlow" class="blue-text">Code</a> |
+<a href="https://dqiaole.github.io/MemFlow/" class="blue-text">Project</a>
+</p>
+</li>
+
+<li>
+<p><b>LeftRefill: Filling Right Canvas based on Left Reference through Generalized Text-to-Image Diffusion Model</b>
+<br />Chenjie Cao, Yunuo Cai, <strong>Qiaole Dong</strong>, Yikai Wang, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
+<br /> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024. <br /> 
+<a href="https://arxiv.org/abs/2305.11577" class="blue-text">Paper</a> |
+<a href="https://github.com/ewrfcas/ARCI" class="blue-text">Code</a> |
+<a href="https://ewrfcas.github.io/ARCI/" class="blue-text">Project</a>
+</p>
+</li>
+
 <li>
 <p><b>ZITS++: Image Inpainting by Improving the Incremental Transformer on Structural Priors</b>
 <br />Chenjie Cao<a>*</a>, <strong>Qiaole Dong</strong><a>*</a>, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
@@ -83,16 +103,6 @@ Xiuzhong Yao<sup><a title='Corresponding author'>✉</a></sup>, Yanwei Fu<sup><a
 <br /> Technical Report, 2023. <br /> 
 <a href="https://arxiv.org/abs/2312.01746" class="blue-text">Paper</a> |
 <a href="https://github.com/DQiaole/FlowDiffusion_pytorch" class="blue-text">Code</a>
-</p>
-</li>
-
-<li>
-<p><b>Harnessing Text-to-Image Attention Prior for Reference-based Multi-view Image Synthesis</b>
-<br />Chenjie Cao, Yunuo Cai, <strong>Qiaole Dong</strong>, Yikai Wang, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
-<br /> Technical Report, 2023. <br /> 
-<a href="https://arxiv.org/abs/2305.11577" class="blue-text">Paper</a> |
-<a href="https://github.com/ewrfcas/ARCI" class="blue-text">Code</a> |
-<a href="https://ewrfcas.github.io/ARCI/" class="blue-text">Project</a>
 </p>
 </li>
 </ul>
