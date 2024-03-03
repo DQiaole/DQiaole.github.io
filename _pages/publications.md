@@ -29,8 +29,8 @@ author_profile: true
 <br />Chenjie Cao, Yunuo Cai, <strong>Qiaole Dong</strong>, Yikai Wang, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
 <br /> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024. <br /> 
 <a href="https://arxiv.org/abs/2305.11577" class="blue-text">Paper</a> |
-<a href="https://github.com/ewrfcas/ARCI" class="blue-text">Code</a> |
-<a href="https://ewrfcas.github.io/ARCI/" class="blue-text">Project</a>
+<a href="https://github.com/ewrfcas/LeftRefill" class="blue-text">Code</a> |
+<a href="https://ewrfcas.github.io/LeftRefill/" class="blue-text">Project</a>
 </p>
 </li>
 
