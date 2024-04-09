@@ -19,6 +19,7 @@ author_profile: true
 <p><b>MemFlow: Optical Flow Estimation and Prediction with Memory</b>
 <br /><strong>Qiaole Dong</strong>, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
 <br /> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024. <br />
+<a href="https://arxiv.org/abs/2404.04808" class="blue-text">Paper</a> |
 <a href="https://github.com/DQiaole/MemFlow" class="blue-text">Code</a> |
 <a href="https://dqiaole.github.io/MemFlow/" class="blue-text">Project</a>
 </p>
@@ -90,7 +91,7 @@ Xiuzhong Yao<sup><a title='Corresponding author'>✉</a></sup>, Yanwei Fu<sup><a
 <ul>
 <li>
 <p><b>Repositioning the Subject within Image</b>
-<br />Yikai Wang, Chenjie Cao, <strong>Qiaole Dong</strong>, Yifan Li, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
+<br />Yikai Wang, Chenjie Cao, Ke Fan, <strong>Qiaole Dong</strong>, Yifan Li, Xiangyang Xue, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
 <br /> Technical Report, 2024. <br /> 
 <a href="https://arxiv.org/abs/2401.16861" class="blue-text">Paper</a> |
 <a href="https://yikai-wang.github.io/seele/" class="blue-text">Project</a>
