@@ -25,4 +25,4 @@ News
 Reviewer
 ======
 * Conference: CVPR 2023/2024, ICCV 2023, ECCV 2024
-* Journal: IEEE TCSVT, IEEE TIP, IEEE TMM
+* Journal: IEEE TPAMI, IEEE TCSVT, IEEE TIP, IEEE TMM
