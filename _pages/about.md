@@ -10,7 +10,7 @@ redirect_from:
   
 About me
 ======
-I am currently a second-year Ph.D. student under the supervision of [Prof. Yanwei Fu](https://yanweifu.github.io/). 
+I am currently a third-year Ph.D. student under the supervision of [Prof. Yanwei Fu](https://yanweifu.github.io/). 
 My research interests focus on computer vision, e.g., optical flow, image inpainting.
 
 Education
