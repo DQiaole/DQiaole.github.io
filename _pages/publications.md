@@ -16,6 +16,15 @@ author_profile: true
 <ul>
 
 <li>
+<p><b>Repositioning the Subject within Image</b>
+<br />Yikai Wang, Chenjie Cao, Ke Fan, <strong>Qiaole Dong</strong>, Yifan Li, Xiangyang Xue, Yanwei Fu
+<br /> Transactions on Machine Learning Research, 2024. <br /> 
+<a href="https://openreview.net/pdf?id=orHH4fCtR8" class="blue-text">Paper</a> |
+<a href="https://yikai-wang.github.io/seele/" class="blue-text">Project</a>
+</p>
+</li>
+
+<li>
 <p><b>MemFlow: Optical Flow Estimation and Prediction with Memory</b>
 <br /><strong>Qiaole Dong</strong>, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
 <br /> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024. <br />
@@ -89,15 +98,6 @@ Xiuzhong Yao<sup><a title='Corresponding author'>✉</a></sup>, Yanwei Fu<sup><a
 # Preprints
 
 <ul>
-<li>
-<p><b>Repositioning the Subject within Image</b>
-<br />Yikai Wang, Chenjie Cao, Ke Fan, <strong>Qiaole Dong</strong>, Yifan Li, Xiangyang Xue, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
-<br /> Technical Report, 2024. <br /> 
-<a href="https://arxiv.org/abs/2401.16861" class="blue-text">Paper</a> |
-<a href="https://yikai-wang.github.io/seele/" class="blue-text">Project</a>
-</p>
-</li>
-
 <li>
 <p><b>Open-DDVM: A Reproduction and Extension of Diffusion Model for Optical Flow Estimation</b>
 <br /><strong>Qiaole Dong</strong>, Bo Zhao, Yanwei Fu
