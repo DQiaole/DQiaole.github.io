@@ -18,7 +18,7 @@ author_profile: true
 <li>
 <p><b>Repositioning the Subject within Image</b>
 <br />Yikai Wang, Chenjie Cao, Ke Fan, <strong>Qiaole Dong</strong>, Yifan Li, Xiangyang Xue, Yanwei Fu
-<br /> Transactions on Machine Learning Research, 2024. <br /> 
+<br /> Transactions on Machine Learning Research (<strong>TMLR</strong>), 2024. <br /> 
 <a href="https://openreview.net/pdf?id=orHH4fCtR8" class="blue-text">Paper</a> |
 <a href="https://yikai-wang.github.io/seele/" class="blue-text">Project</a>
 </p>
