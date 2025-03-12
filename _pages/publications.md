@@ -99,6 +99,14 @@ Xiuzhong Yao<sup><a title='Corresponding author'>✉</a></sup>, Yanwei Fu<sup><a
 
 <ul>
 <li>
+<p><b>Online Dense Point Tracking with Streaming Memory</b>
+<br /><strong>Qiaole Dong</strong>, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
+<br /> Technical Report, 2024. <br /> 
+<a href="https://arxiv.org/abs/2503.06471" class="blue-text">Paper</a>
+</p>
+</li>
+
+<li>
 <p><b>Open-DDVM: A Reproduction and Extension of Diffusion Model for Optical Flow Estimation</b>
 <br /><strong>Qiaole Dong</strong>, Bo Zhao, Yanwei Fu
 <br /> Technical Report, 2023. <br /> 
