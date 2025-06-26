@@ -14,7 +14,7 @@ redirect_from:
 		var adobeDCView = new AdobeDC.View({clientId: "6eeea004ae214c7dbed782ffe66ea6b8", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
 			content:{location: {url: "https://dqiaole.github.io/cv_qiaoledong.pdf"}},
-			metaData:{fileName: "cv_qiaoledong.pdf"}
+			metaData:{fileName: "cv_dongqiaole.pdf"}
 		}, {embedMode: "SIZED_CONTAINER"});
 	});
 </script>
