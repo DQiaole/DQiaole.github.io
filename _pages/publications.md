@@ -16,6 +16,14 @@ author_profile: true
 <ul>
 
 <li>
+<p><b>Online Dense Point Tracking with Streaming Memory</b>
+<br /><strong>Qiaole Dong</strong>, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
+<br /> International Conference on Computer Vision (<strong>ICCV</strong>), 2025. <br /> 
+<a href="https://arxiv.org/abs/2503.06471" class="blue-text">Paper</a>
+</p>
+</li>
+
+<li>
 <p><b>Repositioning the Subject within Image</b>
 <br />Yikai Wang, Chenjie Cao, Ke Fan, <strong>Qiaole Dong</strong>, Yifan Li, Xiangyang Xue, Yanwei Fu
 <br /> Transactions on Machine Learning Research (<strong>TMLR</strong>), 2024. <br /> 
@@ -98,13 +106,6 @@ Xiuzhong Yao<sup><a title='Corresponding author'>✉</a></sup>, Yanwei Fu<sup><a
 # Preprints
 
 <ul>
-<li>
-<p><b>Online Dense Point Tracking with Streaming Memory</b>
-<br /><strong>Qiaole Dong</strong>, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
-<br /> Technical Report, 2024. <br /> 
-<a href="https://arxiv.org/abs/2503.06471" class="blue-text">Paper</a>
-</p>
-</li>
 
 <li>
 <p><b>Open-DDVM: A Reproduction and Extension of Diffusion Model for Optical Flow Estimation</b>
