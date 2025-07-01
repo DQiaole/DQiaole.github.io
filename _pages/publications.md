@@ -108,6 +108,14 @@ Xiuzhong Yao<sup><a title='Corresponding author'>✉</a></sup>, Yanwei Fu<sup><a
 <ul>
 
 <li>
+<p><b>Reinforcement Fine-Tuning Enables MLLMs Learning Novel Tasks Stably</b>
+<br />Zhihao Zhang<a>*</a>, <strong>Qiaole Dong</strong><a>*</a>, Qi Zhang<sup><a title='Corresponding author'>✉</a></sup>, Xuanjing Huang<sup><a title='Corresponding author'>✉</a></sup>, et al.
+<br /> Technical Report, 2025. <br /> 
+<a href="https://arxiv.org/abs/2506.23508" class="blue-text">Paper</a>
+</p>
+</li>
+
+<li>
 <p><b>Open-DDVM: A Reproduction and Extension of Diffusion Model for Optical Flow Estimation</b>
 <br /><strong>Qiaole Dong</strong>, Bo Zhao, Yanwei Fu
 <br /> Technical Report, 2023. <br /> 
