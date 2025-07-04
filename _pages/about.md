@@ -728,7 +728,7 @@ My research interests focus on the perception and anticipation of motion, especi
                 <a href="https://arxiv.org/abs/2506.23508">Paper</a>
             </div>
             <div class="publication-number">
-                <span class="num1">Arxiv 2025</span></a>
+                <span class="num1">Arxiv 2025</span>
             </div>
         </div>
     </div>
@@ -749,7 +749,7 @@ My research interests focus on the perception and anticipation of motion, especi
                 <a href="https://arxiv.org/abs/2503.06471">Paper</a>
             </div>
             <div class="publication-number">
-                <span class="num1">ICCV 2025</span></a>
+                <span class="num1">ICCV 2025</span>
             </div>
         </div>
     </div>
@@ -767,7 +767,7 @@ My research interests focus on the perception and anticipation of motion, especi
                 <a href="https://arxiv.org/abs/2404.04808">Paper</a><a href="https://github.com/DQiaole/MemFlow">Code</a><a href="https://dqiaole.github.io/MemFlow/">Project</a>
             </div>
             <div class="publication-number">
-                <span class="num1">CVPR 2024</span></a>
+                <span class="num1">CVPR 2024</span>
             </div>
         </div>
     </div>
@@ -786,7 +786,7 @@ My research interests focus on the perception and anticipation of motion, especi
                 <a href="https://github.com/DQiaole/MatchFlow">Code</a><a href="https://dqiaole.github.io/MatchFlow/">Project</a>
             </div>
             <div class="publication-number">
-                <span class="num1">CVPR 2023</span></a>
+                <span class="num1">CVPR 2023</span>
             </div>
         </div>
     </div>
@@ -805,7 +805,7 @@ My research interests focus on the perception and anticipation of motion, especi
                 <a href="https://github.com/DQiaole/FlowDiffusion_pytorch">Code</a>
             </div>
             <div class="publication-number">
-                <span class="num1">Arxiv 2023</span></a>
+                <span class="num1">Arxiv 2023</span>
             </div>
         </div>
     </div>
@@ -827,7 +827,7 @@ My research interests focus on the perception and anticipation of motion, especi
                 <a href="https://github.com/ewrfcas/ZITS-PlusPlus">Code</a><a href="https://ewrfcas.github.io/ZITS-PlusPlus/">Project</a>
             </div>
             <div class="publication-number">
-                <span class="num1">IEEE TPAMI 2023</span></a>
+                <span class="num1">IEEE TPAMI 2023</span>
             </div>
         </div>
     </div>
@@ -846,7 +846,7 @@ My research interests focus on the perception and anticipation of motion, especi
                 <a href="https://github.com/ewrfcas/MAE-FAR">Code</a><a href="https://ewrfcas.github.io/MAE-FAR/">Project</a>
             </div>
             <div class="publication-number">
-                <span class="num1">ECCV 2022</span></a>
+                <span class="num1">ECCV 2022</span>
             </div>
         </div>
     </div>
@@ -865,7 +865,7 @@ My research interests focus on the perception and anticipation of motion, especi
                 <a href="https://github.com/DQiaole/ZITS_inpainting">Code</a><a href="https://dqiaole.github.io/ZITS_inpainting/">Project</a>
             </div>
             <div class="publication-number">
-                <span class="num1">CVPR 2022</span></a>
+                <span class="num1">CVPR 2022</span>
             </div>
         </div>
     </div>
@@ -884,7 +884,7 @@ My research interests focus on the perception and anticipation of motion, especi
                 <a href="https://github.com/ewrfcas/LeftRefill">Code</a><a href="https://ewrfcas.github.io/LeftRefill/">Project</a>
             </div>
             <div class="publication-number">
-                <span class="num1">CVPR 2024</span></a>
+                <span class="num1">CVPR 2024</span>
             </div>
         </div>
     </div>
@@ -903,7 +903,7 @@ within Image</h3>
                 <a href="https://openreview.net/pdf?id=orHH4fCtR8">Paper</a><a href="https://yikai-wang.github.io/seele/">Project</a>
             </div>
             <div class="publication-number">
-                <span class="num1">TMLR 2024</span></a>
+                <span class="num1">TMLR 2024</span>
             </div>
         </div>
     </div>
@@ -924,7 +924,7 @@ within Image</h3>
                 <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Causally-Aware_Intraoperative_Imputation_for_Overall_Survival_Time_Prediction_CVPR_2023_paper.pdf">Paper</a><a href="https://github.com/ChrisXLi/CaDAG">Code</a>
             </div>
             <div class="publication-number">
-                <span class="num1">CVPR 2023</span></a>
+                <span class="num1">CVPR 2023</span>
             </div>
         </div>
     </div>
