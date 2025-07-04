@@ -190,7 +190,7 @@ My research interests focus on the perception and anticipation of motion, especi
                 </div>
             </div>
         </div>
-        <span class="experience-date">2026.6</span>
+        <span class="experience-date">2022.9-2026.6</span>
     </div>
     <div class="experience-item">
         <div class="experience-company">
@@ -202,7 +202,7 @@ My research interests focus on the perception and anticipation of motion, especi
                 </div>
             </div>
         </div>
-        <span class="experience-date">2022.6</span>
+        <span class="experience-date">2018.9-2022.6</span>
     </div>
 </div>
 
