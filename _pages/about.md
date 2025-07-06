@@ -746,7 +746,7 @@ My research interests focus on the perception and anticipation of motion, especi
         <p class="publication-authors"><b>Qiaole Dong</b>, Yanwei Fu</p>
         <div class="publication-bottom">
             <div class="publication-links">
-                <a href="https://arxiv.org/abs/2503.06471">Paper</a>
+                <a href="https://arxiv.org/abs/2503.06471">Paper</a><a href="https://github.com/DQiaole/SPOT">Code</a>
             </div>
             <div class="publication-number">
                 <span class="num1">ICCV 2025</span>
