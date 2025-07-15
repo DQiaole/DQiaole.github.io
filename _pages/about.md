@@ -734,6 +734,24 @@ My research interests focus on the perception and anticipation of motion, especi
     </div>
 </div>
 
+<div class="publication-card">
+    <div class="publication-image">
+        <img src="../images/publications/reasoning_memorization.png" alt="Arxiv 2025" loading="lazy"/>
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination</h3>
+        <p class="publication-authors">Mingqi Wu*, Zhihao Zhang*, <b>Qiaole Dong*</b>, Qi Zhang, et al.</p>
+        <div class="publication-bottom">
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2507.10532">Paper</a>
+            </div>
+            <div class="publication-number">
+                <span class="num1">Arxiv 2025</span>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 <div class="sub-section-title">Visual Perception:</div>
 
