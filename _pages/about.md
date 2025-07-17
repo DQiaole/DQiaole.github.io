@@ -58,7 +58,7 @@ redirect_from:
 
 <p class="intro-text">
 I am currently a fourth-year Ph.D. student under the supervision of Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>. 
-My research interests focus on the perception and anticipation of motion, especially optical flow estimation and future prediction. Besides, I am also interested in image generation, e.g., image inpainting/editing. Currently, I am also working on multimodal large language models.
+My research interests focus on the perception and anticipation of motion, especially optical flow estimation and future prediction. Besides, I am also interested in image generation, e.g., image inpainting/editing. Currently, I am working on post-training of (multimodal) large language models.
 </p>
 
 <style>
@@ -714,7 +714,7 @@ My research interests focus on the perception and anticipation of motion, especi
 <p class="publication-authors">* indicates equal contributions.</p>
 
 
-<div class="sub-section-title">Multimodal Large Lanuage Models:</div>
+<div class="sub-section-title">Post-training of Large Models:</div>
 
 <div class="publication-card">
     <div class="publication-image">
