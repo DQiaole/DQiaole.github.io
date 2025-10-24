@@ -721,7 +721,7 @@ My research interests focus on the perception and anticipation of motion, especi
         <img src="../images/publications/Reinforcement_zhang_2025.png" alt="Arxiv 2025" loading="lazy"/>
     </div>
     <div class="publication-content">
-        <h3 class="publication-title">Reinforcement Fine-Tuning Enables MLLMs Learning Novel Tasks Stably</h3>
+        <h3 class="publication-title">Why Reinforcement Fine-Tuning Enables MLLMs Preserve Prior Knowledge Better: A Data Perspective</h3>
         <p class="publication-authors">Zhihao Zhang*, <b>Qiaole Dong*</b>, Qi Zhang, ..., Xuanjing Huang</p>
         <div class="publication-bottom">
             <div class="publication-links">
@@ -810,7 +810,7 @@ My research interests focus on the perception and anticipation of motion, especi
     </div>
 </div>
 
-<div class="publication-card">
+<!-- <div class="publication-card">
     <div class="publication-image">
         <img src="../images/publications/ppmstereo.png" alt="NeurIPS 2025" loading="lazy"/>
     </div>
@@ -820,14 +820,14 @@ My research interests focus on the perception and anticipation of motion, especi
         <div class="publication-bottom">
             <div class="publication-links">
                 <!-- <a href="https://arxiv.org/abs/2303.08384">Paper</a>
-                <a href="https://github.com/DQiaole/MatchFlow">Code</a><a href="https://dqiaole.github.io/MatchFlow/">Project</a> -->
+                <a href="https://github.com/DQiaole/MatchFlow">Code</a><a href="https://dqiaole.github.io/MatchFlow/">Project</a> 
             </div>
             <div class="publication-number">
                 <span class="num1">NeurIPS 2025</span>
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <div class="publication-card">
     <div class="publication-image">
@@ -940,7 +940,7 @@ within Image</h3>
                 <a href="https://openreview.net/pdf?id=orHH4fCtR8">Paper</a><a href="https://yikai-wang.github.io/seele/">Project</a>
             </div>
             <div class="publication-number">
-                <span class="num1">TMLR 2024</span>
+                <span class="num1">TMLR 2024 <p style="color: red;">(J2C Certification, Top 10%)</p></span>
             </div>
         </div>
     </div>
