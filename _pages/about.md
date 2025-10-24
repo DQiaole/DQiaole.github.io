@@ -810,24 +810,25 @@ My research interests focus on the perception and anticipation of motion, especi
     </div>
 </div>
 
-<!-- <div class="publication-card">
+<div class="publication-card">
     <div class="publication-image">
         <img src="../images/publications/ppmstereo.png" alt="NeurIPS 2025" loading="lazy"/>
     </div>
     <div class="publication-content">
         <h3 class="publication-title">PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching</h3>
-        <p class="publication-authors">Yun Wang, <b>Qiaole Dong</b>, Yongjian Zhang, Tin Lun Lam, Yanwei Fu, Dapeng Wu, Junjie Hu</p>
+        <p class="publication-authors">Yun Wang, Junjie Hu, <b>Qiaole Dong</b>, Yongjian Zhang, Yanwei Fu, Tin Lun Lam, Dapeng Wu, </p>
         <div class="publication-bottom">
             <div class="publication-links">
-                <!-- <a href="https://arxiv.org/abs/2303.08384">Paper</a>
-                <a href="https://github.com/DQiaole/MatchFlow">Code</a><a href="https://dqiaole.github.io/MatchFlow/">Project</a> 
+                <a href="https://arxiv.org/pdf/2510.20178">Paper</a>
+                <a href="https://github.com/cocowy1/PPMStereo">Code</a>
+                <!-- <a href="https://dqiaole.github.io/MatchFlow/">Project</a>  -->
             </div>
             <div class="publication-number">
                 <span class="num1">NeurIPS 2025</span>
             </div>
         </div>
     </div>
-</div> -->
+</div>
 
 <div class="publication-card">
     <div class="publication-image">
