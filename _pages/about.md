@@ -953,7 +953,7 @@ within Image</h3>
     </div>
     <div class="publication-content">
         <h3 class="publication-title">VidSplice: Towards Coherent Video Inpainting via Explicit Spaced Frame Guidance</h3>
-        <p class="publication-authors">Ming Xie, Junqiu Yu, <b>Qiaole Dong</b>, Xiangyang Xue, Yanwei Fu</p>
+        <p class="publication-authors">Ming Xie*, Junqiu Yu*, <b>Qiaole Dong</b>, Xiangyang Xue, Yanwei Fu</p>
         <div class="publication-bottom">
             <div class="publication-links">
                 <a href="https://arxiv.org/pdf/2510.21461v1">Paper</a>
