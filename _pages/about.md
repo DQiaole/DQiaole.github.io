@@ -947,6 +947,25 @@ within Image</h3>
     </div>
 </div>
 
+<div class="publication-card">
+    <div class="publication-image">
+        <img src="../images/publications/vidsplice.png" alt="Arxiv 2025" loading="lazy"/>
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">VidSplice: Towards Coherent Video Inpainting via Explicit Spaced Frame Guidance</h3>
+        <p class="publication-authors">Ming Xie, Junqiu Yu, <b>Qiaole Dong</b>, Xiangyang Xue, Yanwei Fu</p>
+        <div class="publication-bottom">
+            <div class="publication-links">
+                <a href="https://arxiv.org/pdf/2510.21461v1">Paper</a>
+                <!-- <a href="https://yikai-wang.github.io/seele/">Project</a> -->
+            </div>
+            <div class="publication-number">
+                <span class="num1">Arxiv 2025</span>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 <div class="sub-section-title">Others:</div>
 
