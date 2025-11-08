@@ -711,7 +711,7 @@ My research interests focus on the perception and anticipation of motion, especi
 }
 </style>
 
-<p class="publication-authors">* indicates equal contributions.</p>
+<p class="publication-authors">* indicates equal contributions. † denotes corresponding author or project leader.</p>
 
 
 <div class="sub-section-title">Post-training of Large Models:</div>
@@ -816,10 +816,10 @@ My research interests focus on the perception and anticipation of motion, especi
     </div>
     <div class="publication-content">
         <h3 class="publication-title">PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching</h3>
-        <p class="publication-authors">Yun Wang, Junjie Hu, <b>Qiaole Dong</b>, Yongjian Zhang, Yanwei Fu, Tin Lun Lam, Dapeng Wu, </p>
+        <p class="publication-authors">Yun Wang, Junjie Hu†, <b>Qiaole Dong†</b>, Yongjian Zhang, Yanwei Fu, Tin Lun Lam, Dapeng Wu, </p>
         <div class="publication-bottom">
             <div class="publication-links">
-                <a href="https://arxiv.org/pdf/2510.20178">Paper</a>
+                <a href="https://openreview.net/pdf?id=MaglIUQKVX">Paper</a>
                 <a href="https://github.com/cocowy1/PPMStereo">Code</a>
                 <!-- <a href="https://dqiaole.github.io/MatchFlow/">Project</a>  -->
             </div>
