@@ -718,6 +718,24 @@ My research interests focus on the perception and anticipation of motion, especi
 
 <div class="publication-card">
     <div class="publication-image">
+        <img src="../images/publications/Reinforcement_zhang_2025.png" alt="Arxiv 2025" loading="lazy"/>
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">Why Reinforcement Fine-Tuning Enables MLLMs Preserve Prior Knowledge Better: A Data Perspective</h3>
+        <p class="publication-authors">Zhihao Zhang*, <b>Qiaole Dong*</b>, Qi Zhang, ..., Xuanjing Huang</p>
+        <div class="publication-bottom">
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2506.23508">Paper</a>
+            </div>
+            <div class="publication-number">
+                <span class="num1">ICLR 2026</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="publication-card">
+    <div class="publication-image">
         <img src="../images/publications/reasoning_memorization.png" alt="Arxiv 2025" loading="lazy"/>
     </div>
     <div class="publication-content">
@@ -729,24 +747,6 @@ My research interests focus on the perception and anticipation of motion, especi
             </div>
             <div class="publication-number">
                 <span class="num1">AAAI 2026</span>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="publication-card">
-    <div class="publication-image">
-        <img src="../images/publications/Reinforcement_zhang_2025.png" alt="Arxiv 2025" loading="lazy"/>
-    </div>
-    <div class="publication-content">
-        <h3 class="publication-title">Why Reinforcement Fine-Tuning Enables MLLMs Preserve Prior Knowledge Better: A Data Perspective</h3>
-        <p class="publication-authors">Zhihao Zhang*, <b>Qiaole Dong*</b>, Qi Zhang, ..., Xuanjing Huang</p>
-        <div class="publication-bottom">
-            <div class="publication-links">
-                <a href="https://arxiv.org/abs/2506.23508">Paper</a>
-            </div>
-            <div class="publication-number">
-                <span class="num1">Arxiv 2025</span>
             </div>
         </div>
     </div>
