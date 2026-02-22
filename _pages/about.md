@@ -971,6 +971,24 @@ within Image</h3>
 
 <div class="publication-card">
     <div class="publication-image">
+        <img src="../images/publications/egosound_2026.png" alt="CVPR 2026" loading="lazy"/>
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">EgoSound: Benchmarking Sound Understanding in Egocentric Videos</h3>
+        <p class="publication-authors">Bingwen Zhu*, Yuqian Fu*, <b>Qiaole Dong</b>, ..., Yanwei Fu</p>
+        <div class="publication-bottom">
+            <div class="publication-links">
+                <a href="https://arxiv.org/pdf/2602.14122">Paper</a>
+            </div>
+            <div class="publication-number">
+                <span class="num1">CVPR 2026</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="publication-card">
+    <div class="publication-image">
         <img src="../images/publications/cvpr23_CAWIM.png" alt="CVPR 2023" loading="lazy"/>
     </div>
     <div class="publication-content">
