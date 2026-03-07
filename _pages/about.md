@@ -713,8 +713,25 @@ My research interests focus on the perception and anticipation of motion, especi
 
 <p class="publication-authors">* indicates equal contributions. † denotes corresponding author or project leader.</p>
 
+<div class="publication-card">
+    <div class="publication-image">
+        <img src="../images/publications/egosound_2026.png" alt="CVPR 2026" loading="lazy"/>
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">EgoSound: Benchmarking Sound Understanding in Egocentric Videos</h3>
+        <p class="publication-authors">Bingwen Zhu*, Yuqian Fu*, <b>Qiaole Dong</b>, ..., Yanwei Fu</p>
+        <div class="publication-bottom">
+            <div class="publication-links">
+                <a href="https://arxiv.org/pdf/2602.14122">Paper</a>
+            </div>
+            <div class="publication-number">
+                <span class="num1">CVPR 2026</span>
+            </div>
+        </div>
+    </div>
+</div>
 
-<div class="sub-section-title">Post-training of Large Models:</div>
+<!-- <div class="sub-section-title">Post-training of Large Models:</div> -->
 
 <div class="publication-card">
     <div class="publication-image">
@@ -753,7 +770,26 @@ My research interests focus on the perception and anticipation of motion, especi
 </div>
 
 
-<div class="sub-section-title">Visual Perception:</div>
+<!-- <div class="sub-section-title">Visual Perception:</div> -->
+
+<div class="publication-card">
+    <div class="publication-image">
+        <img src="../images/publications/vidsplice.png" alt="Arxiv 2025" loading="lazy"/>
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">VidSplice: Towards Coherent Video Inpainting via Explicit Spaced Frame Guidance</h3>
+        <p class="publication-authors">Ming Xie*, Junqiu Yu*, <b>Qiaole Dong</b>, Xiangyang Xue, Yanwei Fu</p>
+        <div class="publication-bottom">
+            <div class="publication-links">
+                <a href="https://arxiv.org/pdf/2510.21461v1">Paper</a>
+                <!-- <a href="https://yikai-wang.github.io/seele/">Project</a> -->
+            </div>
+            <div class="publication-number">
+                <span class="num1">Arxiv 2025</span>
+            </div>
+        </div>
+    </div>
+</div>
 
 <div class="publication-card">
     <div class="publication-image">
@@ -795,6 +831,25 @@ My research interests focus on the perception and anticipation of motion, especi
 
 <div class="publication-card">
     <div class="publication-image">
+        <img src="../images/publications/seele.jpg" alt="TMLR 2024" loading="lazy"/>
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">Repositioning the Subject
+within Image</h3>
+        <p class="publication-authors">Yikai Wang, Chenjie Cao, Ke Fan, <b>Qiaole Dong</b>, Yifan Li, Xiangyang Xue, Yanwei Fu</p>
+        <div class="publication-bottom">
+            <div class="publication-links">
+                <a href="https://openreview.net/pdf?id=orHH4fCtR8">Paper</a><a href="https://yikai-wang.github.io/seele/">Project</a>
+            </div>
+            <div class="publication-number">
+                <span class="num1">TMLR 2024 <p style="color: red;">(J2C Certification, Top 10%)</p></span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="publication-card">
+    <div class="publication-image">
         <img src="../images/publications/memflow_2024.png" alt="CVPR 2024" loading="lazy"/>
     </div>
     <div class="publication-content">
@@ -803,6 +858,25 @@ My research interests focus on the perception and anticipation of motion, especi
         <div class="publication-bottom">
             <div class="publication-links">
                 <a href="https://arxiv.org/abs/2404.04808">Paper</a><a href="https://github.com/DQiaole/MemFlow">Code</a><a href="https://dqiaole.github.io/MemFlow/">Project</a>
+            </div>
+            <div class="publication-number">
+                <span class="num1">CVPR 2024</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="publication-card">
+    <div class="publication-image">
+        <img src="../images/publications/ARCI_teaser.jpg" alt="CVPR 2024" loading="lazy"/>
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">LeftRefill: Filling Right Canvas based on Left Reference through Generalized Text-to-Image Diffusion Model</h3>
+        <p class="publication-authors">Chenjie Cao, Yunuo Cai, <b>Qiaole Dong</b>, Yikai Wang, Yanwei Fu</p>
+        <div class="publication-bottom">
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2305.11577">Paper</a>
+                <a href="https://github.com/ewrfcas/LeftRefill">Code</a><a href="https://ewrfcas.github.io/LeftRefill/">Project</a>
             </div>
             <div class="publication-number">
                 <span class="num1">CVPR 2024</span>
@@ -832,6 +906,24 @@ My research interests focus on the perception and anticipation of motion, especi
 
 <div class="publication-card">
     <div class="publication-image">
+        <img src="../images/publications/cvpr23_CAWIM.png" alt="CVPR 2023" loading="lazy"/>
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">Causally-Aware Intraoperative Imputation for Overall Survival Time Prediction</h3>
+        <p class="publication-authors">Xiang Li*, Xuelin Qian*, Litian Liang*, Lingjie Kong, <b>Qiaole Dong</b>, ..., Yanwei Fu</p>
+        <div class="publication-bottom">
+            <div class="publication-links">
+                <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Causally-Aware_Intraoperative_Imputation_for_Overall_Survival_Time_Prediction_CVPR_2023_paper.pdf">Paper</a><a href="https://github.com/ChrisXLi/CaDAG">Code</a>
+            </div>
+            <div class="publication-number">
+                <span class="num1">CVPR 2023</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="publication-card">
+    <div class="publication-image">
         <img src="../images/publications/flowdiffusion.png" alt="Arxiv" loading="lazy"/>
     </div>
     <div class="publication-content">
@@ -850,45 +942,8 @@ My research interests focus on the perception and anticipation of motion, especi
 </div>
 
 
-<div class="sub-section-title">Visual Generation:</div>
+<!-- <div class="sub-section-title">Visual Generation:</div> -->
 
-<div class="publication-card">
-    <div class="publication-image">
-        <img src="../images/publications/ARCI_teaser.jpg" alt="CVPR 2024" loading="lazy"/>
-    </div>
-    <div class="publication-content">
-        <h3 class="publication-title">LeftRefill: Filling Right Canvas based on Left Reference through Generalized Text-to-Image Diffusion Model</h3>
-        <p class="publication-authors">Chenjie Cao, Yunuo Cai, <b>Qiaole Dong</b>, Yikai Wang, Yanwei Fu</p>
-        <div class="publication-bottom">
-            <div class="publication-links">
-                <a href="https://arxiv.org/abs/2305.11577">Paper</a>
-                <a href="https://github.com/ewrfcas/LeftRefill">Code</a><a href="https://ewrfcas.github.io/LeftRefill/">Project</a>
-            </div>
-            <div class="publication-number">
-                <span class="num1">CVPR 2024</span>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="publication-card">
-    <div class="publication-image">
-        <img src="../images/publications/seele.jpg" alt="TMLR 2024" loading="lazy"/>
-    </div>
-    <div class="publication-content">
-        <h3 class="publication-title">Repositioning the Subject
-within Image</h3>
-        <p class="publication-authors">Yikai Wang, Chenjie Cao, Ke Fan, <b>Qiaole Dong</b>, Yifan Li, Xiangyang Xue, Yanwei Fu</p>
-        <div class="publication-bottom">
-            <div class="publication-links">
-                <a href="https://openreview.net/pdf?id=orHH4fCtR8">Paper</a><a href="https://yikai-wang.github.io/seele/">Project</a>
-            </div>
-            <div class="publication-number">
-                <span class="num1">TMLR 2024 <p style="color: red;">(J2C Certification, Top 10%)</p></span>
-            </div>
-        </div>
-    </div>
-</div>
 
 <div class="publication-card">
     <div class="publication-image">
@@ -947,60 +1002,8 @@ within Image</h3>
     </div>
 </div>
 
-<div class="publication-card">
-    <div class="publication-image">
-        <img src="../images/publications/vidsplice.png" alt="Arxiv 2025" loading="lazy"/>
-    </div>
-    <div class="publication-content">
-        <h3 class="publication-title">VidSplice: Towards Coherent Video Inpainting via Explicit Spaced Frame Guidance</h3>
-        <p class="publication-authors">Ming Xie*, Junqiu Yu*, <b>Qiaole Dong</b>, Xiangyang Xue, Yanwei Fu</p>
-        <div class="publication-bottom">
-            <div class="publication-links">
-                <a href="https://arxiv.org/pdf/2510.21461v1">Paper</a>
-                <!-- <a href="https://yikai-wang.github.io/seele/">Project</a> -->
-            </div>
-            <div class="publication-number">
-                <span class="num1">Arxiv 2025</span>
-            </div>
-        </div>
-    </div>
-</div>
 
 
-<div class="sub-section-title">Others:</div>
 
-<div class="publication-card">
-    <div class="publication-image">
-        <img src="../images/publications/egosound_2026.png" alt="CVPR 2026" loading="lazy"/>
-    </div>
-    <div class="publication-content">
-        <h3 class="publication-title">EgoSound: Benchmarking Sound Understanding in Egocentric Videos</h3>
-        <p class="publication-authors">Bingwen Zhu*, Yuqian Fu*, <b>Qiaole Dong</b>, ..., Yanwei Fu</p>
-        <div class="publication-bottom">
-            <div class="publication-links">
-                <a href="https://arxiv.org/pdf/2602.14122">Paper</a>
-            </div>
-            <div class="publication-number">
-                <span class="num1">CVPR 2026</span>
-            </div>
-        </div>
-    </div>
-</div>
+<!-- <div class="sub-section-title">Others:</div> -->
 
-<div class="publication-card">
-    <div class="publication-image">
-        <img src="../images/publications/cvpr23_CAWIM.png" alt="CVPR 2023" loading="lazy"/>
-    </div>
-    <div class="publication-content">
-        <h3 class="publication-title">Causally-Aware Intraoperative Imputation for Overall Survival Time Prediction</h3>
-        <p class="publication-authors">Xiang Li*, Xuelin Qian*, Litian Liang*, Lingjie Kong, <b>Qiaole Dong</b>, ..., Yanwei Fu</p>
-        <div class="publication-bottom">
-            <div class="publication-links">
-                <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Causally-Aware_Intraoperative_Imputation_for_Overall_Survival_Time_Prediction_CVPR_2023_paper.pdf">Paper</a><a href="https://github.com/ChrisXLi/CaDAG">Code</a>
-            </div>
-            <div class="publication-number">
-                <span class="num1">CVPR 2023</span>
-            </div>
-        </div>
-    </div>
-</div>
