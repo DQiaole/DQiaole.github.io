@@ -725,7 +725,7 @@ My research interests focus on the perception and anticipation of motion, especi
                 <a href="https://arxiv.org/pdf/2602.14122">Paper</a>
             </div>
             <div class="publication-number">
-                <span class="num1">CVPR 2026</span>
+                <span class="num1">CVPR 2026 <p style="color: red;">(Highlight)</p></span>
             </div>
         </div>
     </div>
