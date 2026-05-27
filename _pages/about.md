@@ -842,7 +842,7 @@ within Image</h3>
                 <a href="https://openreview.net/pdf?id=orHH4fCtR8">Paper</a><a href="https://yikai-wang.github.io/seele/">Project</a>
             </div>
             <div class="publication-number">
-                <span class="num1">TMLR 2024 <p style="color: red;">(J2C Certification, Top 10%)</p></span>
+                <span class="num1">TMLR 2024 & ICML 2026 <p style="color: red;">(J2C Certification, Top 10%)</p></span>
             </div>
         </div>
     </div>
