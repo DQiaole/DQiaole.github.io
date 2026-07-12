@@ -57,8 +57,8 @@ redirect_from:
 </style>
 
 <p class="intro-text">
-I am currently a fourth-year Ph.D. student under the supervision of Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>. 
-My research interests focus on the perception and anticipation of motion, especially optical flow estimation and future prediction. Besides, I am also interested in image generation, e.g., image inpainting/editing. Currently, I am working on post-training of (multimodal) large language models.
+Qiaole Dong is a Researcher (Tencent Project Up, 青云计划) at Tencent, Shanghai.
+He received his Ph.D. in Statistics (Fudan Elite Ph.D. Program, 卓博计划) and B.Sc. in Data Science from Fudan University, advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>.  His research focus on vision perception, generation, and post-training of (multimodal) large language models.
 </p>
 
 <style>
