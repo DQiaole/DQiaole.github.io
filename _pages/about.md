@@ -715,6 +715,24 @@ He received his Ph.D. in Statistics (Fudan Elite Ph.D. Program, 卓博计划) an
 
 <div class="publication-card">
     <div class="publication-image">
+        <img src="../images/publications/redraft_2026.png" alt="Arxiv 2026" loading="lazy"/>
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">ReDraft, Don't Just Distill: Reference-Driven Revision for Continual VLLM Post-Training</h3>
+        <p class="publication-authors">Zhihao Zhang*, Mingqi Wu*, <b>Qiaole Dong</b>, ..., Xuanjing Huang</p>
+        <div class="publication-bottom">
+            <div class="publication-links">
+                <a href="https://arxiv.org/pdf/2609.16639">Paper</a>
+            </div>
+            <div class="publication-number">
+                <span class="num1">Arxiv 2026</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="publication-card">
+    <div class="publication-image">
         <img src="../images/publications/egosound_2026.png" alt="CVPR 2026" loading="lazy"/>
     </div>
     <div class="publication-content">
